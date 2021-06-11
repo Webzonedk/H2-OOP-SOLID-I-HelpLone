@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//This Class is representing the Knight and is a part of the interfaces ICharacter, IMeleeAttack, IShield
 namespace HelpLone
 {
     public class Knight : ICharacter, IMeleeAttack, IShield

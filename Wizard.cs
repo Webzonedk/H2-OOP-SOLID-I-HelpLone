@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//This Class is representing the Wizard and is a part of the interfaces ICharacter, IMagicMove, ImagicAttack
 namespace HelpLone
 {
 

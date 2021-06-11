@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace HelpLone
 {
+    //This is the interface for the Charakter, containing main methods
     interface ICharacter
     {
         void Heal();

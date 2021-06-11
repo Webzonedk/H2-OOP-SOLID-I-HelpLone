@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+//This Class is representing the Witch and is a part of the interfaces ICharacter, IMagicMove
 namespace HelpLone
 {
-    public class Witch : ICharacter, IMagicMove
+    public class Witch : ICharacter, IMagicMove, IShield
     {
 
         public void Die()
